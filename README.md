@@ -4,3 +4,4 @@ from branch branchTest changes
 check story us224
 check1 st us224
 check issue
+check issue2
